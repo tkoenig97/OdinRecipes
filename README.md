@@ -1,1 +1,2 @@
 # OdinRecipes
+This website contains a collection of three recipes taken from allrecipes.com. The primary focus is to learn how links, images, and lists work together. No CSS has been added to this website.
